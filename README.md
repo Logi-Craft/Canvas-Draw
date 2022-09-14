@@ -1,2 +1,3 @@
-# Canvas-Draw
-A open source Drawing canvas made With p5.js
+# Snake test
+A open source Drawing canvas made With turtle.
+via input to make snake.
